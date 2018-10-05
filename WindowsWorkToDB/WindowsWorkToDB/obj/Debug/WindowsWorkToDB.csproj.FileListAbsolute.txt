@@ -1,0 +1,37 @@
+Z:\учебная практика\WindowsWorkToDB\WindowsWorkToDB\bin\Debug\WindowsWorkToDB.exe.config
+Z:\учебная практика\WindowsWorkToDB\WindowsWorkToDB\bin\Debug\WindowsWorkToDB.exe
+Z:\учебная практика\WindowsWorkToDB\WindowsWorkToDB\bin\Debug\WindowsWorkToDB.pdb
+Z:\учебная практика\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.csprojResolveAssemblyReference.cache
+Z:\учебная практика\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.Form1.resources
+Z:\учебная практика\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.Properties.Resources.resources
+Z:\учебная практика\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.csproj.GenerateResource.Cache
+Z:\учебная практика\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.exe
+Z:\учебная практика\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.pdb
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\bin\Debug\WindowsWorkToDB.exe.config
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\bin\Debug\WindowsWorkToDB.exe
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\bin\Debug\WindowsWorkToDB.pdb
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.csprojResolveAssemblyReference.cache
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.RegaPage.resources
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.VhodPage.resources
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.Properties.Resources.resources
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.csproj.GenerateResource.Cache
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.csproj.CoreCompileInputs.cache
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.exe
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.pdb
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.AdminPage.resources
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.ManagerPage.resources
+D:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.UserPage.resources
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\bin\Debug\WindowsWorkToDB.exe.config
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.exe
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.pdb
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\bin\Debug\WindowsWorkToDB.exe
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\bin\Debug\WindowsWorkToDB.pdb
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.csprojResolveAssemblyReference.cache
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.AdminPage.resources
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.ManagerPage.resources
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.RegaPage.resources
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.UserPage.resources
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.VhodPage.resources
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.Properties.Resources.resources
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.csproj.GenerateResource.Cache
+E:\!Учеба\проект\WindowsWorkToDB\WindowsWorkToDB\obj\Debug\WindowsWorkToDB.InfPage.resources
